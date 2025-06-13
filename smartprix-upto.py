@@ -36,7 +36,7 @@ time.sleep(2)
 
 old_height = driver.execute_script("return document.body.scrollHeight;")
 
-#i wnt only 100 mobiles you can do that like this
+#i want only 100 mobiles you can do that like this
 
 counter = 20
 max = 500
